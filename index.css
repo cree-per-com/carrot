@@ -21,10 +21,9 @@ body {
   justify-content: center;
   align-items: center;
   background-color: orange;
-  opacity: 1;
 }
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 500px) {
   .media-info-msg {
-    opacity: 0;
+    display: none;
   }
 }
