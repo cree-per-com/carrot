@@ -1,5 +1,5 @@
 main {
-  padding: 30px 20px 30px 20px;
+  padding: 30px 20px 103px 20px;
 }
 .item-list {
   display: flex;
@@ -45,6 +45,7 @@ main {
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   cursor: pointer;
   transition: all 0.2s ease-in-out;
+  text-decoration: none;
 }
 .write-btn:hover {
   background-color: #fb9c5d;
